@@ -19,9 +19,7 @@ Develop a data anonymization system.
 
 ## Technologies Used
 - Pandas - version 1.3.5
-- CatBoost - version 1.0.6
 - Sklearn - version 1.0.2
-- Matplotlib - version 3.2.2
 
 
 ## Project Status
