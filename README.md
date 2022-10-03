@@ -12,8 +12,8 @@ Develop a data anonymization system.
 
 ## General Information
 - Task: anonymization system.
-- Having studied and processed historical data on the prices of cars of different brands and years of manufacture, create a model for predicting the cost of a servia customer's car.
-- The exact price of the car will help the customer to sell it more profitably. The presence of the service in the application will attract new customers.
+- By means of linear algebra, transform the data in such a way that it is impossible to decipher them. The quality of the model should not suffer.
+- Data anonymization is an important aspect when working with personal data. This ensures the security of the data provided by the clients of the service.
 
 
 
@@ -22,7 +22,6 @@ Develop a data anonymization system.
 - CatBoost - version 1.0.6
 - Sklearn - version 1.0.2
 - Matplotlib - version 3.2.2
-- Lightgbm - version 2.2.3
 
 
 ## Project Status
